@@ -29,34 +29,34 @@
 
 ## 📁 PROJECT FOLDER STRUCTURE ==>
 
-TouchlessDocs/
-│
-├── app/                      # Core application
-│   ├── __init__.py
-│   ├── main.py               # Entry point
-│   ├── gesture_control.py    # Rule-based gesture detection
-│   ├── voice_commands.py     # Voice-to-text + NLP intent recognition
-│   ├── pdf_viewer.py         # PDF viewing and interaction
-│   ├── annotator.py          # Drawing/annotation tool
-│   └── session_logger.py     # User interaction logging and analytics
-│
-├── utils/                    # Utility modules
-│   ├── __init__.py
-│   ├── mediapipe_utils.py    # MediaPipe initialization and helpers
-│   ├── nlp_utils.py          # Intent classification
-│   └── gesture_rules.py      # Reusable rule functions
-│
-├── data/                     # Logs, voice samples, interaction data
-│   ├── logs/
-│   └── analytics/
-│
-├── models/                   # Optional future AI models (e.g. ChatGPT, user modeling)
-│   └── README.md             # Explain how to add/plug in AI models here
-│
-├── assets/                   # Icons, images, example PDFs
-│
-├── requirements.txt
-├── README.md
+TouchlessDocs/<br>
+│<br>
+├── app/                      # Core application<br>
+│   ├── __init__.py<br>
+│   ├── main.py               # Entry point<br>
+│   ├── gesture_control.py    # Rule-based gesture detection<br>
+│   ├── voice_commands.py     # Voice-to-text + NLP intent recognition<br>
+│   ├── pdf_viewer.py         # PDF viewing and interaction<br>
+│   ├── annotator.py          # Drawing/annotation tool<br>
+│   └── session_logger.py     # User interaction logging and analytics<br>
+│<br>
+├── utils/                    # Utility modules<br>
+│   ├── __init__.py<br>
+│   ├── mediapipe_utils.py    # MediaPipe initialization and helpers<br>
+│   ├── nlp_utils.py          # Intent classification<br>
+│   └── gesture_rules.py      # Reusable rule functions<br>
+│<br>
+├── data/                     # Logs, voice samples, interaction data<br>
+│   ├── logs/<br>
+│   └── analytics/<br>
+│<br>
+├── models/                   # Optional future AI models (e.g. ChatGPT, user modeling)<br>
+│   └── README.md             # Explain how to add/plug in AI models here<br>
+│<br>
+├── assets/                   # Icons, images, example PDFs<br>
+│<br>
+├── requirements.txt<br>
+├── README.md<br>
 └── run.py                    # Launch the app
 
 ---
@@ -128,3 +128,4 @@ For queries, feature suggestions, or collaboration, feel free to connect!
 
 
 ---
+
