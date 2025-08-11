@@ -112,26 +112,6 @@ python run.py
 
 ---
 
-✅ IMPROVEMENTS MADE ==>
-- Used rule-based gesture detection — no training dataset required.
-- Integrated voice-to-intent NLP for commands like "go back" or "zoom in".
-- Added session logging of gestures and voice commands.
-- Screenshot saving via gesture-based trigger (pinch or open palm).
-- Built for real-time performance using OpenCV and PyMuPDF.
-
----
-
-📌 TO DO / FUTURE ENHANCEMENTS ==>
-- Add support for ChatGPT-based PDF Q&A assistant.
-- Enable custom voice command training using user-defined rules.
-- Add heatmaps of most used document regions.
-- Introduce prediction of user next actions using Markov models.
-- Build a GUI launcher or web dashboard.
-- Add offline speech recognition (e.g., using OpenAI Whisper).
-- Enable multi-language support for field workers.
-
----
-
 ✨ SAMPLE OUTPUT ==>
 
 📄 Document: example.pdf
@@ -145,5 +125,6 @@ python run.py
 
 📬 CONTACT ==>
 For queries, feature suggestions, or collaboration, feel free to connect!
+
 
 ---
