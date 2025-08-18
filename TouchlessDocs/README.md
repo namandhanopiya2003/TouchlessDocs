@@ -114,11 +114,11 @@ python run.py
 
 ✨ SAMPLE OUTPUT ==>
 
-📄 Document: example.pdf
-🎥 Webcam: Activated
-🖐️ Detected Gesture: "Next Page"
-🗣️ Voice Command: "Save comment" → save
-💾 Screenshot saved to screenshots/gesture_2025_06_13_111212.jpg
+📄 Document: example.pdf<br>
+🎥 Webcam: Activated<br>
+🖐️ Detected Gesture: "Next Page"<br>
+🗣️ Voice Command: "Save comment" → save<br>
+💾 Screenshot saved to screenshots/gesture_2025_06_13_111212.jpg<br>
 📊 Analytics: 3 gestures, 2 voice commands logged in session.
 
 ---
@@ -126,6 +126,6 @@ python run.py
 📬 CONTACT ==>
 For queries, feature suggestions, or collaboration, feel free to connect!
 
-
 ---
+
 
