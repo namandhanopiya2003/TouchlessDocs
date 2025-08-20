@@ -1,0 +1,19 @@
+This file is intended for storing logs of all activities performed through the program.
+(An example of how logs are created and recorded is provided below.)
+
+{"time": "2025-08-19T11:49:10.291832", "event": "gesture", "details": {"type": "swipe_left -> prev_page"}}
+{"time": "2025-08-19T11:49:10.838740", "event": "gesture", "details": {"type": "swipe_left -> prev_page"}}
+{"time": "2025-08-19T11:49:10.891223", "event": "gesture", "details": {"type": "swipe_left -> prev_page"}}
+{"time": "2025-08-19T11:49:11.055940", "event": "gesture", "details": {"type": "pinch -> next_page"}}
+{"time": "2025-08-19T11:49:11.092243", "event": "gesture", "details": {"type": "pinch -> next_page"}}
+{"time": "2025-08-19T11:49:11.152231", "event": "gesture", "details": {"type": "pinch -> next_page"}}
+{"time": "2025-08-19T18:51:07.138607", "event": "voice", "details": {"intent": "prev_page"}}
+{"time": "2025-08-19T18:51:15.881711", "event": "voice", "details": {"intent": "prev_page"}}
+{"time": "2025-08-19T18:51:21.240067", "event": "voice", "details": {"intent": "next_page"}}
+{"time": "2025-08-19T18:51:26.408558", "event": "voice", "details": {"intent": "next_page"}}
+{"time": "2025-08-19T18:51:31.539093", "event": "voice", "details": {"intent": null}}
+{"time": "2025-08-19T18:51:39.479930", "event": "gesture", "details": {"type": "pinch -> next_page"}}
+{"time": "2025-08-19T18:51:39.511299", "event": "gesture", "details": {"type": "pinch -> next_page"}}
+{"time": "2025-08-19T18:51:44.264866", "event": "voice", "details": {"intent": "unknown"}}
+{"time": "2025-08-19T18:51:50.168230", "event": "voice", "details": {"intent": "prev_page"}}
+{"time": "2025-08-19T18:51:55.319558", "event": "voice", "details": {"intent": "unknown"}}
